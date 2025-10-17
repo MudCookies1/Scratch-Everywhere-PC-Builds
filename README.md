@@ -13,3 +13,7 @@ APPLICATION:
     LINUX: Just run the file! (Double click, obviously)
     WINDOWS: I personally haven't tested on windows, but you (probably) just need to rename it to an EXE, as it is cross-platform
     MAC: Run the file, I believe
+
+# DISCLAMER
+## THIS PROJECT WAS NOT MADE BY ME, OR OWNED BY ME.
+## PLEASE SEE ORIGINAL PROJECT FOR THE WELL... ORIGINAL PROJECT.
